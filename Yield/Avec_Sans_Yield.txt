@@ -1,0 +1,6 @@
+﻿yield
+classe reprenant la liste chainée qui est rendue énumérable
+Exeple de réécriture de string pour l'exercice
+les deux classes ChaineEnumerateur : IEnumerator et ChaineEnumerable : IEnumerable qui permettent de parcourir les char
+de la string ne sont pas utilisées
+Le Yield réalise toutes les opérations de parcour de la chaine
